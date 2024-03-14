@@ -1,0 +1,49 @@
+@import "pstyles.css";
+@import "fstyles.css";
+
+#body
+{background-color: rgb(218, 160, 226);
+}
+#header{
+    text-align: center; color:#666666(75, 192, 75);
+    /*border: solid;
+    border-color: blueviolet;*/
+}
+/*div{
+background-color: aqua;
+}*/
+
+#name{
+    color: red;
+}
+
+table, th, td{
+    width: 60%;
+    padding: 5px;
+    border-bottom: 1px black solid;
+    border-collapse: collapse;
+    
+}
+th{
+    text-align: center;
+}
+td{
+    height: 20px;
+    vertical-align: bottom;
+    text-align: left;
+}
+
+
+caption{
+    text-align: center;
+}
+
+#para{
+   text-align: center;
+   font-family: 'Gill Sans';
+}
+.row:hover{
+background-color: lightgrey;
+} 
+
+
